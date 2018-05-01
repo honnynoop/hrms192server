@@ -1,0 +1,1 @@
+java -cp j4and.jar kr.co.infopub.j4android.AndroidTrasTest3d:\\  j4androidbook\\j4andproject\\from7.71to7.7.5  j4androidbook\\from7.71to7.7.5  chapt7.8.2   J4AMusicChat05
